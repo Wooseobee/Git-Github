@@ -8,7 +8,7 @@
 * Do it! Git & Github
 - - -
 
-소스 코드 삽입하기
+* 소스 코드 삽입하기
 
 ```C
 <stdio.h>
@@ -20,6 +20,10 @@ int main(){
 }
 ```
 
-코드 입력 완료
+* 코드 입력 완료
 
 [구글](https://google.com, "검색 사이트")  <https://google.com>
+
+* 이미지 연습
+
+![코딩](./images/coding.jpg)
